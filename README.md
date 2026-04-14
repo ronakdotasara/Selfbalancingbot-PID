@@ -27,7 +27,7 @@ Controls a two-wheeled self-balancing robot using an MPU6050 IMU and a PID contr
 ## Required Libraries
 
 ### LMotorController
-Use this specific version: **https://github.com/gttealainctorw/LMotorController/tree/main**
+Use this specific version: **https://github.com/ronakdotasara/Selfbalancingbot-PID/tree/main/LMotorController-main**
 
 This is the one designed specifically for PID balancing robots and is fully compatible with this code.
 
@@ -61,7 +61,7 @@ Available directly in the Arduino Library Manager:
 Before running the PID controller, the **MPU6050 must be calibrated** to obtain accurate sensor offsets.  
 This project uses the calibration method from:
 
-https://github.com/gttealainctorw/MPU6050-Calibration-Module
+https://github.com/ronakdotasara/Selfbalancingbot-PID/tree/main/MPU%20calibration
 
 ### Steps
 
